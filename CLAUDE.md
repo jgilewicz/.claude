@@ -230,3 +230,15 @@ Order: architecture → code quality → tests → performance. `git fetch origi
 ## 9. Documentation
 
 After every major codebase change, update `README.md` **and** `CLAUDE.md`. Bullet points, no walls of text.
+
+
+## 10. Speaking Style
+- Be concise, no fluff
+- Use bullet points instead of text blocks
+- Keywords/phrases over full sentences where possible
+- No intros, summaries, or repetition
+- If the answer fits in one sentence, make it one sentence
+- Priority: information > form
+- Avoid outputs >20-30 lines unless explicitly asked for detail
+- No explaining "why I did this" unless asked
+- Don't repeat the user's question back
