@@ -1,0 +1,32 @@
+# Local runtime state, history, and caches — regenerated per device
+backups/
+cache/
+daemon/
+daemon.log
+file-history/
+history.jsonl
+ide/
+jobs/
+paste-cache/
+plans/
+projects/
+session-env/
+sessions/
+shell-snapshots/
+tasks/
+telemetry/
+usage-data/
+.cc-writes/
+.last-cleanup
+mcp-needs-auth-cache.json
+stats-cache.json
+
+# Plugin caches/clones — reinstalled from installed_plugins.json + known_marketplaces.json
+plugins/cache/
+plugins/data/
+plugins/marketplaces/
+plugins/plugin-catalog-cache.json
+plugins/.last_inuse_sweep
+
+# OS cruft
+.DS_Store

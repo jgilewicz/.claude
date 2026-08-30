@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "plugins": {
+    "pyright-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kuba/.claude/plugins/cache/claude-plugins-official/pyright-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-07-20T17:28:26.192Z",
+        "lastUpdated": "2026-07-20T17:28:26.192Z"
+      }
+    ],
+    "hookify@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kuba/.claude/plugins/cache/claude-plugins-official/hookify/unknown",
+        "version": "unknown",
+        "installedAt": "2026-07-20T18:37:29.962Z",
+        "lastUpdated": "2026-08-27T20:33:45.075Z"
+      }
+    ]
+  }
+}
