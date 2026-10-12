@@ -247,7 +247,8 @@
     "command": "~/.claude/statusline.sh"
   },
   "enabledPlugins": {
-    "hookify@claude-plugins-official": true
+    "hookify@claude-plugins-official": true,
+    "mattpocock-skills@claude-plugins-official": true
   },
   "alwaysThinkingEnabled": true,
   "effortLevel": "high",

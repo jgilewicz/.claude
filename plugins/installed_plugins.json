@@ -19,6 +19,16 @@
         "lastUpdated": "2026-10-11T11:33:16.052Z",
         "gitCommitSha": "f359d43b406057f1a8cdbc4ea93b827642c162e6"
       }
+    ],
+    "mattpocock-skills@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kuba/.claude/plugins/cache/claude-plugins-official/mattpocock-skills/1.2.3",
+        "version": "1.2.3",
+        "installedAt": "2026-10-12T13:14:23.095Z",
+        "lastUpdated": "2026-10-12T13:14:23.095Z",
+        "gitCommitSha": "c55ee46073ed923f86ce59a5eb3b6d895095d1b7"
+      }
     ]
   }
 }
