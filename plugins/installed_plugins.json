@@ -13,10 +13,11 @@
     "hookify@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/kuba/.claude/plugins/cache/claude-plugins-official/hookify/unknown",
-        "version": "unknown",
+        "installPath": "/Users/kuba/.claude/plugins/cache/claude-plugins-official/hookify/f359d43b4060",
+        "version": "f359d43b4060",
         "installedAt": "2026-07-20T18:37:29.962Z",
-        "lastUpdated": "2026-08-27T20:33:45.075Z"
+        "lastUpdated": "2026-10-11T11:33:16.052Z",
+        "gitCommitSha": "f359d43b406057f1a8cdbc4ea93b827642c162e6"
       }
     ]
   }

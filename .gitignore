@@ -30,3 +30,24 @@ plugins/.last_inuse_sweep
 
 # OS cruft
 .DS_Store
+
+# Runtime auth/policy/status state — per device
+bridge-spawn/
+daemon-auth-cooldown
+daemon-auth-status.json
+gh-pr-status-cache.json
+policy-limits.json
+policy-limits.json.stamp.json
+remote-settings.json
+orchestrator/parked-lanes.json
+orchestrator/briefs/
+plugins/plugin-directory-cache-v2.json
+*.bak
+
+# Symlinks into ~/.agents/skills — installed by Orca / skills CLI per machine
+skills/computer-use
+skills/orca-cli
+skills/wandb-primary
+
+# Python
+__pycache__/

@@ -1,0 +1,3 @@
+[submodule "skills/wcss-slurm"]
+	path = skills/wcss-slurm
+	url = https://github.com/dawidlinek/slurm-wcss-skill.git
